@@ -13,4 +13,4 @@ def categorize_ratings(rating_list):
     print (f"Medium: ", number_of_medium_ratings) #another easier way using coma
     print (f"High: ", number_of_high_ratings)
 
-categorize_ratings([1, 3, 5, 7, 8, 9])
+categorize_ratings([1, 3, 5, 7, 8, 9]) #checking ratings should be from 1 to 10
